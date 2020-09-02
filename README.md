@@ -9,6 +9,7 @@ out of the box.
 Has a DB init that will setup and populate the table with some test data, on startup.
 The data model is one object called customer, delivered using a basic controller.
 
+![image](shot1.jpg)
 
 
 # Set up
